@@ -1,0 +1,40 @@
+#python 3.13v
+
+# ===============================
+# Core Runtime
+# ===============================
+python-dotenv
+
+# ===============================
+# UI
+# ===============================
+streamlit
+customtkinter
+
+
+
+# ===============================
+# LangChain (Agents + Tools)
+# ===============================
+langchain
+langchain-community
+langchain-core
+langchain-openai              # doc- https://docs.langchain.com/oss/python/integrations/chat/openai
+
+
+# ===============================
+# LLM / Embeddings
+# ===============================
+openai
+tiktoken
+sentence-transformers
+
+
+
+
+
+# ===============================
+# Memory / Vector Store
+# ===============================
+chromadb
+faiss-cpu
